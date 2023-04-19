@@ -1,0 +1,78 @@
+#name {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: bold, large;
+}
+
+#mail {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: bold, large;
+}
+
+#msg {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: bold;
+}
+
+.droite {
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(175, 135, 210);
+    width: 60%;
+    height: 105%;
+    padding-right: 15%;
+    margin: right 15%;
+    align-content:center;
+    
+}
+
+#btn {
+    font-style: normal;
+    font-size: large;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    background-color: rgb(167, 96, 233);
+    color: azure;
+    margin-block: 10px;
+    border-radius: 50px;
+    height: 100%;
+    font-weight: 100px;
+    width: 100px;
+
+}
+
+.gauche {
+    margin-bottom: 50px;
+    align-items: center;
+    justify-content: right;
+    background-color: rgb(255, 255, 255);
+    width: 10px;
+    height: 10%;
+    padding-right: 20%;
+    margin-right: 30%;
+    align-content: center;
+    
+
+
+}
+
+.site {
+    height: 45vh;
+    width: 50%;
+    font-weight: 50%;
+    align-items: center;
+    display: flex;
+    font-display: auto;
+    margin-block: 20px;
+    padding-block: 15px;
+    border: 10px solid rgb(246, 183, 238);
+justify-items: center;
+}
+
+#titre {
+    font-style: italic;
+    font-size: larger;
+    font-weight: 80px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    margin-left: 30px;
+}
